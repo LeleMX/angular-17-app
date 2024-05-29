@@ -16,7 +16,8 @@ import { Component, EventEmitter, Input, Output, input } from '@angular/core';
   styles: `li {
     color: violet;
     font-size: 20px;
-    list-style: none
+    list-style: none;
+    text-aling: center
   }
   `
 })
